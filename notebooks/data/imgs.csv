@@ -1,0 +1,55 @@
+id,name,active,image,url
+ATL,Atlanta Hawks,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/ATL.png,/teams/ATL/
+BOS,Boston Celtics,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/BOS.png,/teams/BOS/
+BKN,Brooklyn Nets,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/NJN.png,/teams/NJN/
+CHA,Charlotte Hornets,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/CHA.png,/teams/CHA/
+CHI,Chicago Bulls,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/CHI.png,/teams/CHI/
+CLE,Cleveland Cavaliers,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/CLE.png,/teams/CLE/
+DAL,Dallas Mavericks,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/DAL.png,/teams/DAL/
+DEN,Denver Nuggets,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/DEN.png,/teams/DEN/
+DET,Detroit Pistons,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/DET.png,/teams/DET/
+GOS,Golden State Warriors,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/GSW.png,/teams/GSW/
+GSW,Golden State Warriors,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/GSW.png,/teams/GSW/
+HOU,Houston Rockets,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/HOU.png,/teams/HOU/
+IND,Indiana Pacers,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/IND.png,/teams/IND/
+LAC,Los Angeles Clippers,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/LAC.png,/teams/LAC/
+LAL,Los Angeles Lakers,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/LAL.png,/teams/LAL/
+MEM,Memphis Grizzlies,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/MEM.png,/teams/MEM/
+MIA,Miami Heat,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/MIA.png,/teams/MIA/
+MIL,Milwaukee Bucks,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/MIL.png,/teams/MIL/
+MIN,Minnesota Timberwolves,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/MIN.png,/teams/MIN/
+NOP,New Orleans Pelicans,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/NOH.png,/teams/NOH/
+NYK,New York Knicks,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/NYK.png,/teams/NYK/
+OKC,Oklahoma City Thunder,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/OKC.png,/teams/OKC/
+ORL,Orlando Magic,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/ORL.png,/teams/ORL/
+PHI,Philadelphia 76ers,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/PHI.png,/teams/PHI/
+PHX,Phoenix Suns,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/PHO.png,/teams/PHO/
+POR,Portland Trail Blazers,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/POR.png,/teams/POR/
+SAC,Sacramento Kings,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/SAC.png,/teams/SAC/
+SAS,San Antonio Spurs,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/SAS.png,/teams/SAS/
+TOR,Toronto Raptors,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/TOR.png,/teams/TOR/
+UTA,Utah Jazz,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/UTA.png,/teams/UTA/
+WAS,Washington Wizards,true,https://cdn.ssref.net/req/202301032/tlogo/bbr/WAS.png,/teams/WAS/
+AND,Anderson Packers,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/AND.png,/teams/AND/
+BLT,Baltimore Bullets,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/BLB.png,/teams/BLB/
+CHS,Chicago Stags,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/CHS.png,/teams/CHS/
+CLR,Cleveland Rebels,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/CLR.png,/teams/CLR/
+DNN,Denver Nuggets,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/DNN.png,/teams/DNN/
+DTF,Detroit Falcons,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/DTF.png,/teams/DTF/
+INJ,Indianapolis Jets,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/INJ.png,/teams/INJ/
+INO,Indianapolis Olympians,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/INO.png,/teams/INO/
+KEN,Kentucky Colonels,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/KEN.png,/teams/KEN/
+MMS,Memphis Sounds,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/MMS.png,/teams/MMS/
+PTC,Pittsburgh Condors,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/PTC.png,/teams/PTC/
+PIT,Pittsburgh Ironmen,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/PIT.png,/teams/PIT/
+PRO,Providence Steam Rollers,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/PRO.png,/teams/PRO/
+SDS,San Diego Sails,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/SDS.png,/teams/SDS/
+SHE,Sheboygan Red Skins,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/SHE.png,/teams/SHE/
+SSL,Spirits of St. Louis,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/SSL.png,/teams/SSL/
+STB,St. Louis Bombers,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/STB.png,/teams/STB/
+FLO,The Floridians,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/FLO.png,/teams/FLO/
+TRH,Toronto Huskies,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/TRH.png,/teams/TRH/
+UTS,Utah Stars,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/UTS.png,/teams/UTS/
+VIR,Virginia Squires,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/VIR.png,/teams/VIR/
+WSC,Washington Capitols,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/WSC.png,/teams/WSC/
+WAT,Waterloo Hawks,false,https://cdn.ssref.net/req/202301032/tlogo/bbr/WAT.png,/teams/WAT/
